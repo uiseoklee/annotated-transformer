@@ -1,6 +1,6 @@
 # annotated-transformer
 
-![image](https://user-images.githubusercontent.com/35882/166251887-9da909a9-660b-45a9-ae72-0aae89fb38d4.png)
+![image]([https://user-images.githubusercontent.com/35882/166251887-9da909a9-660b-45a9-ae72-0aae89fb38d4.png](https://nlp.seas.harvard.edu/images/the-annotated-transformer_14_0.png))
 
 
 1. 컴퓨터에 GPU 가 있어야 실행됩니다.
